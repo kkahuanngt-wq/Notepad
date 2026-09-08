@@ -30,16 +30,6 @@ A clean, responsive, and fully functional Notepad application built with **Flutt
 
 ---
 
-## 📸 Screenshots
-
-*(Tip: Replace these placeholder links with actual screenshots of your app!)*
-
-| Home Screen | Add/Edit Note | Delete Confirmation |
-| :---: | :---: | :---: |
-| ![Home](https://via.placeholder.com/250x500?text=Home+Screen) | ![Add](https://via.placeholder.com/250x500?text=Add+Note) | ![Delete](https://via.placeholder.com/250x500?text=Delete+Dialog) |
-
----
-
 ## 🚀 Getting Started
 
 To run this project locally on your machine:
